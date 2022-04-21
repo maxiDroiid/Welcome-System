@@ -1,0 +1,15 @@
+{
+  "name": "Welcome-System",
+  "version": "1.0.0",
+  "description": "No Especificado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "No Especificado",
+  "dependencies": {
+    "discord.js": "^16.11.0",
+    "enmap": "^5.8.7"
+  }
+}
